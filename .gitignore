@@ -26,7 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 myenv/
-keys.py
+api_keys.py
 
 
 # PyInstaller
